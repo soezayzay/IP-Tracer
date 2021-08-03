@@ -1,6 +1,8 @@
 import requests
 import os
 import json
+#Author : SoeZayZay
+#Github : https://github.com/soezayzay
 #banner
 os.system("clear")
 banner = """\033[1;34m
