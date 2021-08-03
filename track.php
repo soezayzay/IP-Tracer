@@ -1,5 +1,7 @@
 <?php
 system("clear");
+#Author : SoeZayZay
+#Github : https://github.com/soezayzay
 #banner
 function banner(){
 echo "\e[1;34m              ___ ____    ___        __       \e[0m\n";
